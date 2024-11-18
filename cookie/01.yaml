@@ -1,0 +1,10 @@
+1. User ko profile dene se pehle yeh dekhna hota hai ki user kaun hai.- authentication
+
+2. User ko profile dene ke baad yeh dekhna hota hai ki user
+profile ko kaise update karega. - authorization
+
+3.Server bhul jata hai baar baar ki aap kon ho, toh abh aapko har baar btana padega ki aap kon hai.
+
+toh iska solution cookies and session hai.
+
+4. Toh jab bhi aap login krte ho toh server ek string aapke sath bhej deta hai jo woh server khud ke liye bhejta hai,jab bhi free ho jao tabh.
